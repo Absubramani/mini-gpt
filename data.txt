@@ -1,0 +1,8 @@
+Deep learning is a subset of machine learning.
+Transformers use self attention to process sequences.
+Neural networks learn representations from data.
+GPT models are trained using next token prediction.
+Tokenization converts text into numbers.
+Attention allows models to focus on relevant information.
+Large language models require large datasets.
+Training data quality matters more than quantity.
